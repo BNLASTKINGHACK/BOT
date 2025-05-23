@@ -26,8 +26,8 @@ def start_flask():
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
 
 # Replace with your Bot Token and Channel ID
-BOT_TOKEN = "7078882104:AAGoZovCt-7wloK-9RFefQ9flc-Lf06if08"  # Replace with your Bot Token
-CHANNEL_ID = "-1002408621955"  # Replace with your Channel ID
+BOT_TOKEN = "7476097183:AAH1-TXSIcf31Z4ApiZS9gPYwjkfSoCx29k"  # Replace with your Bot Token
+CHANNEL_ID = "-1001710790157"  # Replace with your Channel ID
 ADMIN_USER_ID = 6105849915  # Replace with your admin's Telegram user ID
 GROUP_LINK = "https://t.me/+houBGxe-Xq5mNDll"  # Replace with your group's link
 
